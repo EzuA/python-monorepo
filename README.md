@@ -10,7 +10,7 @@ To allow ease of development, a `pyproject.toml` is placed at the root of the pr
 
 Install locally with
 ```shell
-poetry installads
+poetry install
 ```
 and run e.g.
 ```
